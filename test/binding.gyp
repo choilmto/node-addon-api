@@ -22,6 +22,7 @@
         'dataview/dataview.cc',
         'dataview/dataview_read_write.cc',
         'error.cc',
+        'env.cc',
         'external.cc',
         'function.cc',
         'handlescope.cc',

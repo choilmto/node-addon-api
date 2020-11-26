@@ -28,6 +28,7 @@ let testModules = [
   'callbackscope',
   'dataview/dataview',
   'dataview/dataview_read_write',
+  'env',
   'error',
   'external',
   'function',
